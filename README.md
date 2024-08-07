@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently a student
+- 🌱 I’m currently learning diffusion distillation
+- 📫 How to reach me: email XGHDSGSDH@163.com
+
 <!--
 **XGHDSGSDH/XGHDSGSDH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
